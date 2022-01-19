@@ -1,0 +1,17 @@
+{
+    "invoices" :[
+        {
+        "businessUnit": "",
+        "invoiceNumber": "",
+        "date": "",
+        "supplier": "",
+        "amountCurr": "",
+        "amount": "",
+        "paymentTerms": "",
+        "supplierSite": "",
+        "type": "",
+        "termsDate": ""
+        }
+
+    ]
+}
